@@ -1,0 +1,228 @@
+country,region,population,pop_density,infant_mortality,GDP_p_capita,literacy,climate,birthrate,deathrate
+Afghanistan ,ASIA (EX. NEAR EAST)         ,31056997,48.0,"163,07",700.0,36.0,1,46.6,20.34
+Albania ,EASTERN EUROPE                     ,3581655,124.6,"21,52",4500.0,86.5,3,15.11,5.22
+Algeria ,NORTHERN AFRICA                    ,32930091,13.8,31,6000.0,70.0,1,17.14,4.61
+American Samoa ,OCEANIA                            ,57794,290.4,"9,27",8000.0,97.0,2,22.46,3.27
+Andorra ,WESTERN EUROPE                     ,71201,152.1,"4,05",19000.0,100.0,3,8.71,6.25
+Angola ,SUB-SAHARAN AFRICA                 ,12127071,9.7,"191,19",1900.0,42.0,,45.11,24.2
+Anguilla ,LATIN AMER. & CARIB    ,13477,132.1,"21,03",8600.0,95.0,2,14.17,5.34
+Antigua & Barbuda ,LATIN AMER. & CARIB    ,69108,156.0,"19,46",11000.0,89.0,2,16.93,5.37
+Argentina ,LATIN AMER. & CARIB    ,39921833,14.4,"15,18",11200.0,97.1,3,16.73,7.55
+Armenia ,C.W. OF IND. STATES ,2976372,99.9,"23,28",3500.0,98.6,4,12.07,8.23
+Aruba ,LATIN AMER. & CARIB    ,71891,372.5,"5,89",28000.0,97.0,2,11.03,6.68
+Australia ,OCEANIA                            ,20264082,2.6,"4,69",29000.0,100.0,1,12.14,7.51
+Austria ,WESTERN EUROPE                     ,8192880,97.7,"4,66",30000.0,98.0,3,8.74,9.76
+Azerbaijan ,C.W. OF IND. STATES ,7961619,91.9,"81,74",3400.0,97.0,1,20.74,9.75
+"Bahamas, The ",LATIN AMER. & CARIB    ,303770,21.8,"25,21",16700.0,95.6,2,17.57,9.05
+Bahrain ,NEAR EAST                          ,698585,1050.5,"17,27",16900.0,89.1,1,17.8,4.14
+Bangladesh ,ASIA (EX. NEAR EAST)         ,147365352,1023.4,"62,6",1900.0,43.1,2,29.8,8.27
+Barbados ,LATIN AMER. & CARIB    ,279912,649.5,"12,5",15700.0,97.4,2,12.71,8.67
+Belarus ,C.W. OF IND. STATES ,10293011,49.6,"13,37",6100.0,99.6,4,11.16,14.02
+Belgium ,WESTERN EUROPE                     ,10379067,340.0,"4,68",29100.0,98.0,3,10.38,10.27
+Belize ,LATIN AMER. & CARIB    ,287730,12.5,"25,69",4900.0,94.1,2,28.84,5.72
+Benin ,SUB-SAHARAN AFRICA                 ,7862944,69.8,85,1100.0,40.9,2,38.85,12.22
+Bermuda ,NORTHERN AMERICA                   ,65773,1241.0,"8,53",36000.0,98.0,2,11.4,7.74
+Bhutan ,ASIA (EX. NEAR EAST)         ,2279723,48.5,"100,44",1300.0,42.2,2,33.65,12.7
+Bolivia ,LATIN AMER. & CARIB    ,8989046,8.2,"53,11",2400.0,87.2,"1,5",23.3,7.53
+Bosnia & Herzegovina ,EASTERN EUROPE                     ,4498976,88.0,"21,05",6100.0,,4,8.77,8.27
+Botswana ,SUB-SAHARAN AFRICA                 ,1639833,2.7,"54,58",9000.0,79.8,1,23.08,29.5
+Brazil ,LATIN AMER. & CARIB    ,188078227,22.1,"29,61",7600.0,86.4,2,16.56,6.17
+British Virgin Is. ,LATIN AMER. & CARIB    ,23098,151.0,"18,05",16000.0,97.8,2,14.89,4.42
+Brunei ,ASIA (EX. NEAR EAST)         ,379444,65.8,"12,61",18600.0,93.9,2,18.79,3.45
+Bulgaria ,EASTERN EUROPE                     ,7385367,66.6,"20,55",7600.0,98.6,3,9.65,14.27
+Burkina Faso ,SUB-SAHARAN AFRICA                 ,13902972,50.7,"97,57",1100.0,26.6,2,45.62,15.6
+Burma ,ASIA (EX. NEAR EAST)         ,47382633,69.8,"67,24",1800.0,85.3,2,17.91,9.83
+Burundi ,SUB-SAHARAN AFRICA                 ,8090068,290.7,"69,29",600.0,51.6,2,42.22,13.46
+Cambodia ,ASIA (EX. NEAR EAST)         ,13881427,76.7,"71,48",1900.0,69.4,2,26.9,9.06
+Cameroon ,SUB-SAHARAN AFRICA                 ,17340702,36.5,"68,26",1800.0,79.0,"1,5",33.89,13.47
+Canada ,NORTHERN AMERICA                   ,33098932,3.3,"4,75",29800.0,97.0,,10.78,7.8
+Cape Verde ,SUB-SAHARAN AFRICA                 ,420979,104.4,"47,77",1400.0,76.6,3,24.87,6.55
+Cayman Islands ,LATIN AMER. & CARIB    ,45436,173.4,"8,19",35000.0,98.0,2,12.74,4.89
+Central African Rep. ,SUB-SAHARAN AFRICA                 ,4303356,6.9,91,1100.0,51.0,2,33.91,18.65
+Chad ,SUB-SAHARAN AFRICA                 ,9944201,7.7,"93,82",1200.0,47.5,2,45.73,16.38
+Chile ,LATIN AMER. & CARIB    ,16134219,21.3,"8,8",9900.0,96.2,3,15.23,5.81
+China ,ASIA (EX. NEAR EAST)         ,1313973713,136.9,"24,18",5000.0,90.9,"1,5",13.25,6.97
+Colombia ,LATIN AMER. & CARIB    ,43593035,38.3,"20,97",6300.0,92.5,2,20.48,5.58
+Comoros ,SUB-SAHARAN AFRICA                 ,690948,318.4,"74,93",700.0,56.5,2,36.93,8.2
+"Congo, Dem. Rep. ",SUB-SAHARAN AFRICA                 ,62660551,26.7,"94,69",700.0,65.5,2,43.69,13.27
+"Congo, Repub. of the ",SUB-SAHARAN AFRICA                 ,3702314,10.8,"93,86",700.0,83.8,2,42.57,12.93
+Cook Islands ,OCEANIA                            ,21388,89.1,,5000.0,95.0,2,21.0,
+Costa Rica ,LATIN AMER. & CARIB    ,4075261,79.8,"9,95",9100.0,96.0,2,18.32,4.36
+Cote d'Ivoire ,SUB-SAHARAN AFRICA                 ,17654843,54.8,"90,83",1400.0,50.9,2,35.11,14.84
+Croatia ,EASTERN EUROPE                     ,4494749,79.5,"6,84",10600.0,98.5,,9.61,11.48
+Cuba ,LATIN AMER. & CARIB    ,11382820,102.7,"6,33",2900.0,97.0,2,11.89,7.22
+Cyprus ,NEAR EAST                          ,784301,84.8,"7,18",19200.0,97.6,3,12.56,7.68
+Czech Republic ,EASTERN EUROPE                     ,10235455,129.8,"3,93",15700.0,99.9,3,9.02,10.59
+Denmark ,WESTERN EUROPE                     ,5450661,126.5,"4,56",31100.0,100.0,3,11.13,10.36
+Djibouti ,SUB-SAHARAN AFRICA                 ,486530,21.2,"104,13",1300.0,67.9,1,39.53,19.31
+Dominica ,LATIN AMER. & CARIB    ,68910,91.4,"14,15",5400.0,94.0,2,15.27,6.73
+Dominican Republic ,LATIN AMER. & CARIB    ,9183984,188.5,"32,38",6000.0,84.7,2,23.22,5.73
+East Timor ,ASIA (EX. NEAR EAST)         ,1062777,70.8,"47,41",500.0,58.6,2,26.99,6.24
+Ecuador ,LATIN AMER. & CARIB    ,13547510,47.8,"23,66",3300.0,92.5,2,22.29,4.23
+Egypt ,NORTHERN AFRICA                    ,78887007,78.8,"32,59",4000.0,57.7,1,22.94,5.23
+El Salvador ,LATIN AMER. & CARIB    ,6822378,324.3,"25,1",4800.0,80.2,2,26.61,5.78
+Equatorial Guinea ,SUB-SAHARAN AFRICA                 ,540109,19.3,"85,13",2700.0,85.7,2,35.59,15.06
+Eritrea ,SUB-SAHARAN AFRICA                 ,4786994,39.5,"74,87",700.0,58.6,"1,5",34.33,9.6
+Estonia ,BALTICS                            ,1324333,29.3,"7,87",12300.0,99.8,3,10.04,13.25
+Ethiopia ,SUB-SAHARAN AFRICA                 ,74777981,66.3,"95,32",700.0,42.7,2,37.98,14.86
+Faroe Islands ,WESTERN EUROPE                     ,47246,33.8,"6,24",22000.0,,,14.05,8.7
+Fiji ,OCEANIA                            ,905949,49.6,"12,62",5800.0,93.7,2,22.55,5.65
+Finland ,WESTERN EUROPE                     ,5231372,15.5,"3,57",27400.0,100.0,3,10.45,9.86
+France ,WESTERN EUROPE                     ,60876136,111.3,"4,26",27600.0,99.0,4,11.99,9.14
+French Guiana ,LATIN AMER. & CARIB    ,199509,2.2,"12,07",8300.0,83.0,2,20.46,4.88
+French Polynesia ,OCEANIA                            ,274578,65.9,"8,44",17500.0,98.0,2,16.68,4.69
+Gabon ,SUB-SAHARAN AFRICA                 ,1424906,5.3,"53,64",5500.0,63.2,2,36.16,12.25
+"Gambia, The ",SUB-SAHARAN AFRICA                 ,1641564,145.3,"72,02",1700.0,40.1,2,39.37,12.25
+Gaza Strip ,NEAR EAST                          ,1428757,3968.8,"22,93",600.0,,3,39.45,3.8
+Georgia ,C.W. OF IND. STATES ,4661473,66.9,"18,59",2500.0,99.0,3,10.41,9.23
+Germany ,WESTERN EUROPE                     ,82422299,230.9,"4,16",27600.0,99.0,3,8.25,10.62
+Ghana ,SUB-SAHARAN AFRICA                 ,22409572,93.6,"51,43",2200.0,74.8,2,30.52,9.72
+Gibraltar ,WESTERN EUROPE                     ,27928,3989.7,"5,13",17500.0,,,10.74,9.31
+Greece ,WESTERN EUROPE                     ,10688058,81.0,"5,53",20000.0,97.5,3,9.68,10.24
+Greenland ,NORTHERN AMERICA                   ,56361,0.0,"15,82",20000.0,,1,15.93,7.84
+Grenada ,LATIN AMER. & CARIB    ,89703,260.8,"14,62",5000.0,98.0,2,22.08,6.88
+Guadeloupe ,LATIN AMER. & CARIB    ,452776,254.4,"8,6",8000.0,90.0,2,15.05,6.09
+Guam ,OCEANIA                            ,171019,316.1,"6,94",21000.0,99.0,2,18.79,4.48
+Guatemala ,LATIN AMER. & CARIB    ,12293545,112.9,"35,93",4100.0,70.6,2,29.88,5.2
+Guernsey ,WESTERN EUROPE                     ,65409,838.6,"4,71",20000.0,,3,8.81,10.01
+Guinea ,SUB-SAHARAN AFRICA                 ,9690222,39.4,"90,37",2100.0,35.9,2,41.76,15.48
+Guinea-Bissau ,SUB-SAHARAN AFRICA                 ,1442029,39.9,"107,17",800.0,42.4,2,37.22,16.53
+Guyana ,LATIN AMER. & CARIB    ,767245,3.6,"33,26",4000.0,98.8,2,18.28,8.28
+Haiti ,LATIN AMER. & CARIB    ,8308504,299.4,"73,45",1600.0,52.9,2,36.44,12.17
+Honduras ,LATIN AMER. & CARIB    ,7326496,65.4,"29,32",2600.0,76.2,2,28.24,5.28
+Hong Kong ,ASIA (EX. NEAR EAST)         ,6940432,6355.7,"2,97",28800.0,93.5,2,7.29,6.29
+Hungary ,EASTERN EUROPE                     ,9981334,107.3,"8,57",13900.0,99.4,3,9.72,13.11
+Iceland ,WESTERN EUROPE                     ,299388,2.9,"3,31",30900.0,99.9,3,13.64,6.72
+India ,ASIA (EX. NEAR EAST)         ,1095351995,333.2,"56,29",2900.0,59.5,"2,5",22.01,8.18
+Indonesia ,ASIA (EX. NEAR EAST)         ,245452739,127.9,"35,6",3200.0,87.9,2,20.34,6.25
+Iran ,ASIA (EX. NEAR EAST)         ,68688433,41.7,"41,58",7000.0,79.4,1,17.0,5.55
+Iraq ,NEAR EAST                          ,26783383,61.3,"50,25",1500.0,40.4,1,31.98,5.37
+Ireland ,WESTERN EUROPE                     ,4062235,57.8,"5,39",29600.0,98.0,3,14.45,7.82
+Isle of Man ,WESTERN EUROPE                     ,75441,131.9,"5,93",21000.0,,3,11.05,11.19
+Israel ,NEAR EAST                          ,6352117,305.8,"7,03",19800.0,95.4,3,17.97,6.18
+Italy ,WESTERN EUROPE                     ,58133509,193.0,"5,94",26700.0,98.6,,8.72,10.4
+Jamaica ,LATIN AMER. & CARIB    ,2758124,250.9,"12,36",3900.0,87.9,2,20.82,6.52
+Japan ,ASIA (EX. NEAR EAST)         ,127463611,337.4,"3,26",28200.0,99.0,3,9.37,9.16
+Jersey ,WESTERN EUROPE                     ,91084,785.2,"5,24",24800.0,,3,9.3,9.28
+Jordan ,NEAR EAST                          ,5906760,64.0,"17,35",4300.0,91.3,1,21.25,2.65
+Kazakhstan ,C.W. OF IND. STATES ,15233244,5.6,"29,21",6300.0,98.4,4,16.0,9.42
+Kenya ,SUB-SAHARAN AFRICA                 ,34707817,59.6,"61,47",1000.0,85.1,"1,5",39.72,14.02
+Kiribati ,OCEANIA                            ,105432,130.0,"48,52",800.0,,2,30.65,8.26
+"Korea, North ",ASIA (EX. NEAR EAST)         ,23113019,191.8,"24,04",1300.0,99.0,3,15.54,7.13
+"Korea, South ",ASIA (EX. NEAR EAST)         ,48846823,496.0,"7,05",17800.0,97.9,3,10.0,5.85
+Kuwait ,NEAR EAST                          ,2418393,135.7,"9,95",19000.0,83.5,1,21.94,2.41
+Kyrgyzstan ,C.W. OF IND. STATES ,5213898,26.3,"35,64",1600.0,97.0,"2,5",22.8,7.08
+Laos ,ASIA (EX. NEAR EAST)         ,6368481,26.9,"85,22",1700.0,66.4,2,35.49,11.55
+Latvia ,BALTICS                            ,2274735,35.2,"9,55",10200.0,99.8,3,9.24,13.66
+Lebanon ,NEAR EAST                          ,3874050,372.5,"24,52",4800.0,87.4,,18.52,6.21
+Lesotho ,SUB-SAHARAN AFRICA                 ,2022331,66.6,"84,23",3000.0,84.8,3,24.75,28.71
+Liberia ,SUB-SAHARAN AFRICA                 ,3042004,27.3,"128,87",1000.0,57.5,2,44.77,23.1
+Libya ,NORTHERN AFRICA                    ,5900754,3.4,"24,6",6400.0,82.6,,26.49,3.48
+Liechtenstein ,WESTERN EUROPE                     ,33987,212.4,"4,7",25000.0,100.0,4,10.21,7.18
+Lithuania ,BALTICS                            ,3585906,55.0,"6,89",11400.0,99.6,,8.75,10.98
+Luxembourg ,WESTERN EUROPE                     ,474413,183.5,"4,81",55100.0,100.0,,11.94,8.41
+Macau ,ASIA (EX. NEAR EAST)         ,453125,16183.0,"4,39",19400.0,94.5,2,8.48,4.47
+Macedonia ,EASTERN EUROPE                     ,2050554,80.9,"10,09",6700.0,,3,12.02,8.77
+Madagascar ,SUB-SAHARAN AFRICA                 ,18595469,31.7,"76,83",800.0,68.9,2,41.41,11.11
+Malawi ,SUB-SAHARAN AFRICA                 ,13013926,109.8,"103,32",600.0,62.7,2,43.13,19.33
+Malaysia ,ASIA (EX. NEAR EAST)         ,24385858,74.0,"17,7",9000.0,88.7,2,22.86,5.05
+Maldives ,ASIA (EX. NEAR EAST)         ,359008,1196.7,"56,52",3900.0,97.2,2,34.81,7.06
+Mali ,SUB-SAHARAN AFRICA                 ,11716829,9.5,"116,79",900.0,46.4,2,49.82,16.89
+Malta ,WESTERN EUROPE                     ,400214,1266.5,"3,89",17700.0,92.8,,10.22,8.1
+Marshall Islands ,OCEANIA                            ,60422,5.1,"29,45",1600.0,93.7,2,33.05,4.78
+Martinique ,LATIN AMER. & CARIB    ,436131,396.5,"7,09",14400.0,97.7,2,13.74,6.48
+Mauritania ,SUB-SAHARAN AFRICA                 ,3177388,3.1,"70,89",1800.0,41.7,1,40.99,12.16
+Mauritius ,SUB-SAHARAN AFRICA                 ,1240827,608.3,"15,03",11400.0,85.6,2,15.43,6.86
+Mayotte ,SUB-SAHARAN AFRICA                 ,201234,538.1,"62,4",2600.0,,2,40.95,7.7
+Mexico ,LATIN AMER. & CARIB    ,107449525,54.5,"20,91",9000.0,92.2,"1,5",20.69,4.74
+"Micronesia, Fed. St. ",OCEANIA                            ,108004,153.9,"30,21",2000.0,89.0,2,24.68,4.75
+Moldova ,C.W. OF IND. STATES ,4466706,132.0,"40,42",1800.0,99.1,,15.7,12.64
+Monaco ,WESTERN EUROPE                     ,32543,16271.5,"5,43",27000.0,99.0,,9.19,12.91
+Mongolia ,ASIA (EX. NEAR EAST)         ,2832224,1.8,"53,79",1800.0,97.8,1,21.59,6.95
+Montserrat ,LATIN AMER. & CARIB    ,9439,92.5,"7,35",3400.0,97.0,2,17.59,7.1
+Morocco ,NORTHERN AFRICA                    ,33241259,74.4,"41,62",4000.0,51.7,,21.98,5.58
+Mozambique ,SUB-SAHARAN AFRICA                 ,19686505,24.6,"130,79",1200.0,47.8,2,35.18,21.35
+Namibia ,SUB-SAHARAN AFRICA                 ,2044147,2.5,"48,98",7200.0,84.0,1,24.32,18.86
+Nauru ,OCEANIA                            ,13287,632.7,"9,95",5000.0,,2,24.76,6.7
+Nepal ,ASIA (EX. NEAR EAST)         ,28287147,192.2,"66,98",1400.0,45.2,,30.98,9.31
+Netherlands ,WESTERN EUROPE                     ,16491461,397.1,"5,04",28600.0,99.0,3,10.9,8.68
+Netherlands Antilles ,LATIN AMER. & CARIB    ,221736,231.0,"10,03",11400.0,96.7,2,14.78,6.45
+New Caledonia ,OCEANIA                            ,219246,11.5,"7,72",15000.0,91.0,2,18.11,5.69
+New Zealand ,OCEANIA                            ,4076140,15.2,"5,85",21600.0,99.0,3,13.76,7.53
+Nicaragua ,LATIN AMER. & CARIB    ,5570129,43.0,"29,11",2300.0,67.5,2,24.51,4.45
+Niger ,SUB-SAHARAN AFRICA                 ,12525094,9.9,"121,69",800.0,17.6,1,50.73,20.91
+Nigeria ,SUB-SAHARAN AFRICA                 ,131859731,142.7,"98,8",900.0,68.0,"1,5",40.43,16.94
+N. Mariana Islands ,OCEANIA                            ,82459,172.9,"7,11",12500.0,97.0,2,19.43,2.29
+Norway ,WESTERN EUROPE                     ,4610820,14.2,"3,7",37800.0,100.0,3,11.46,9.4
+Oman ,NEAR EAST                          ,3102229,14.6,"19,51",13100.0,75.8,1,36.24,3.81
+Pakistan ,ASIA (EX. NEAR EAST)         ,165803560,206.2,"72,44",2100.0,45.7,1,29.74,8.23
+Palau ,OCEANIA                            ,20579,44.9,"14,84",9000.0,92.0,2,18.03,6.8
+Panama ,LATIN AMER. & CARIB    ,3191319,40.8,"20,47",6300.0,92.6,2,21.74,5.36
+Papua New Guinea ,OCEANIA                            ,5670544,12.3,"51,45",2200.0,64.6,2,29.36,7.25
+Paraguay ,LATIN AMER. & CARIB    ,6506464,16.0,"25,63",4700.0,94.0,2,29.1,4.49
+Peru ,LATIN AMER. & CARIB    ,28302603,22.0,"31,94",5100.0,90.9,"1,5",20.48,6.23
+Philippines ,ASIA (EX. NEAR EAST)         ,89468677,298.2,"23,51",4600.0,92.6,2,24.89,5.41
+Poland ,EASTERN EUROPE                     ,38536869,123.3,"8,51",11100.0,99.8,3,9.85,9.89
+Portugal ,WESTERN EUROPE                     ,10605870,114.8,"5,05",18000.0,93.3,3,10.72,10.5
+Puerto Rico ,LATIN AMER. & CARIB    ,3927188,284.8,"8,24",16800.0,94.1,2,12.77,7.65
+Qatar ,NEAR EAST                          ,885359,77.4,"18,61",21500.0,82.5,1,15.56,4.72
+Reunion ,SUB-SAHARAN AFRICA                 ,787584,312.9,"7,78",5800.0,88.9,2,18.9,5.49
+Romania ,EASTERN EUROPE                     ,22303552,93.9,"26,43",7000.0,98.4,3,10.7,11.77
+Russia ,C.W. OF IND. STATES ,142893540,8.4,"15,39",8900.0,99.6,,9.95,14.65
+Rwanda ,SUB-SAHARAN AFRICA                 ,8648248,328.4,"91,23",1300.0,70.4,3,40.37,16.09
+Saint Helena ,SUB-SAHARAN AFRICA                 ,7502,18.2,19,2500.0,97.0,,12.13,6.53
+Saint Kitts & Nevis ,LATIN AMER. & CARIB    ,39129,149.9,"14,49",8800.0,97.0,2,18.02,8.33
+Saint Lucia ,LATIN AMER. & CARIB    ,168458,273.5,"13,53",5400.0,67.0,2,19.68,5.08
+St Pierre & Miquelon ,NORTHERN AMERICA                   ,7026,29.0,"7,54",6900.0,99.0,,13.52,6.83
+Saint Vincent and the Grenadines ,LATIN AMER. & CARIB    ,117848,303.0,"14,78",2900.0,96.0,2,16.18,5.98
+Samoa ,OCEANIA                            ,176908,60.1,"27,71",5600.0,99.7,2,16.43,6.62
+San Marino ,WESTERN EUROPE                     ,29251,479.5,"5,73",34600.0,96.0,,10.02,8.17
+Sao Tome & Principe ,SUB-SAHARAN AFRICA                 ,193413,193.2,"43,11",1200.0,79.3,2,40.25,6.47
+Saudi Arabia ,NEAR EAST                          ,27019731,13.8,"13,24",11800.0,78.8,1,29.34,2.58
+Senegal ,SUB-SAHARAN AFRICA                 ,11987121,61.1,"55,51",1600.0,40.2,2,32.78,9.42
+Serbia ,EASTERN EUROPE                     ,9396411,106.3,"12,89",2200.0,93.0,,,
+Seychelles ,SUB-SAHARAN AFRICA                 ,81541,179.2,"15,53",7800.0,58.0,2,16.03,6.29
+Sierra Leone ,SUB-SAHARAN AFRICA                 ,6005250,83.7,"143,64",500.0,31.4,2,45.76,23.03
+Singapore ,ASIA (EX. NEAR EAST)         ,4492150,6482.2,"2,29",23700.0,92.5,2,9.34,4.28
+Slovakia ,EASTERN EUROPE                     ,5439448,111.4,"7,41",13300.0,,3,10.65,9.45
+Slovenia ,EASTERN EUROPE                     ,2010347,99.2,"4,45",19000.0,99.7,,8.98,10.31
+Solomon Islands ,OCEANIA                            ,552438,19.4,"21,29",1700.0,,2,30.01,3.92
+Somalia ,SUB-SAHARAN AFRICA                 ,8863338,13.9,"116,7",500.0,37.8,1,45.13,16.63
+South Africa ,SUB-SAHARAN AFRICA                 ,44187637,36.2,"61,81",10700.0,86.4,1,18.2,22.0
+Spain ,WESTERN EUROPE                     ,40397842,80.0,"4,42",22000.0,97.9,3,10.06,9.72
+Sri Lanka ,ASIA (EX. NEAR EAST)         ,20222240,308.2,"14,35",3700.0,92.3,2,15.51,6.52
+Sudan ,SUB-SAHARAN AFRICA                 ,41236378,16.5,"62,5",1900.0,61.1,2,34.53,8.97
+Suriname ,LATIN AMER. & CARIB    ,439117,2.7,"23,57",4000.0,93.0,2,18.02,7.27
+Swaziland ,SUB-SAHARAN AFRICA                 ,1136334,65.5,"69,27",4900.0,81.6,"2,5",27.41,29.74
+Sweden ,WESTERN EUROPE                     ,9016596,20.0,"2,77",26800.0,99.0,3,10.27,10.31
+Switzerland ,WESTERN EUROPE                     ,7523934,182.2,"4,39",32700.0,99.0,3,9.71,8.49
+Syria ,NEAR EAST                          ,18881361,102.0,"29,53",3300.0,76.9,1,27.76,4.81
+Taiwan ,ASIA (EX. NEAR EAST)         ,23036087,640.3,"6,4",23400.0,96.1,2,12.56,6.48
+Tajikistan ,C.W. OF IND. STATES ,7320815,51.2,"110,76",1000.0,99.4,2,32.65,8.25
+Tanzania ,SUB-SAHARAN AFRICA                 ,37445392,39.6,"98,54",600.0,78.2,,37.71,16.39
+Thailand ,ASIA (EX. NEAR EAST)         ,64631595,125.7,"20,48",7400.0,92.6,2,13.87,7.04
+Togo ,SUB-SAHARAN AFRICA                 ,5548702,97.7,"66,61",1500.0,60.9,2,37.01,9.83
+Tonga ,OCEANIA                            ,114689,153.3,"12,62",2200.0,98.5,2,25.37,5.28
+Trinidad & Tobago ,LATIN AMER. & CARIB    ,1065842,207.9,"24,31",9500.0,98.6,2,12.9,10.57
+Tunisia ,NORTHERN AFRICA                    ,10175014,62.2,"24,77",6900.0,74.2,3,15.52,5.13
+Turkey ,NEAR EAST                          ,70413958,90.2,"41,04",6700.0,86.5,3,16.62,5.97
+Turkmenistan ,C.W. OF IND. STATES ,5042920,10.3,"73,08",5800.0,98.0,1,27.61,8.6
+Turks & Caicos Is ,LATIN AMER. & CARIB    ,21152,49.2,"15,67",9600.0,98.0,2,21.84,4.21
+Tuvalu ,OCEANIA                            ,11810,454.2,"20,03",1100.0,,2,22.18,7.11
+Uganda ,SUB-SAHARAN AFRICA                 ,28195754,119.5,"67,83",1400.0,69.9,2,47.35,12.24
+Ukraine ,C.W. OF IND. STATES ,46710816,77.4,"20,34",5400.0,99.7,3,8.82,14.39
+United Arab Emirates ,NEAR EAST                          ,2602713,31.4,"14,51",23200.0,77.9,1,18.96,4.4
+United Kingdom ,WESTERN EUROPE                     ,60609153,247.6,"5,16",27700.0,99.0,3,10.71,10.13
+United States ,NORTHERN AMERICA                   ,298444215,31.0,"6,5",37800.0,97.0,3,14.14,8.26
+Uruguay ,LATIN AMER. & CARIB    ,3431932,19.5,"11,95",12800.0,98.0,3,13.91,9.05
+Uzbekistan ,C.W. OF IND. STATES ,27307134,61.0,"71,1",1700.0,99.3,1,26.36,7.84
+Vanuatu ,OCEANIA                            ,208869,17.1,"55,16",2900.0,53.0,2,22.72,7.82
+Venezuela ,LATIN AMER. & CARIB    ,25730435,28.2,"22,2",4800.0,93.4,2,18.71,4.92
+Vietnam ,ASIA (EX. NEAR EAST)         ,84402966,256.1,"25,95",2500.0,90.3,2,16.86,6.22
+Virgin Islands ,LATIN AMER. & CARIB    ,108605,56.9,"8,03",17200.0,,2,13.96,6.43
+Wallis and Futuna ,OCEANIA                            ,16025,58.5,,3700.0,50.0,2,,
+West Bank ,NEAR EAST                          ,2460492,419.9,"19,62",800.0,,3,31.67,3.92
+Western Sahara ,NORTHERN AFRICA                    ,273008,1.0,,,,1,,
+Yemen ,NEAR EAST                          ,21456188,40.6,"61,5",800.0,50.2,1,42.89,8.3
+Zambia ,SUB-SAHARAN AFRICA                 ,11502010,15.3,"88,29",800.0,80.6,2,41.0,19.93
+Zimbabwe ,SUB-SAHARAN AFRICA                 ,12236805,31.3,"67,69",1900.0,90.7,2,28.01,21.84
