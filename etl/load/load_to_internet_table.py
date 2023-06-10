@@ -3,7 +3,6 @@ import psycopg2
 
 path_file = "data/processed/internet_processed_2.csv"
 
-
 # Convert JSON data to a DataFrame
 df = pd.read_csv(path_file)
 
@@ -23,14 +22,16 @@ df = df[[
 
 
 # # rename columns
-df = df.rename(columns={'column1': 'rename1'})
+df = df.rename(columns={'index': 'index_num',
+                        'year' : 'date_year'})
+
 
 # Change type of columns
 data_types={
-          'index' : int
+          'index_num' : int
         , 'entity' : str
         , 'code' : str
-        , 'year' : int
+        , 'date_year' : int
         , 'cellulars': int
         , 'percent_users' : float
         , 'users' : int
@@ -39,21 +40,22 @@ data_types={
 
 # change the type
 df = df.astype(data_types)
+print(df.head())
 
 
-# PostgreSQL connection details
-conn = psycopg2.connect(
-    database="postgres",
-    user="postgres",
-    password="12345678",
-    host="localhost",
-    port="5432"
-)
+# # PostgreSQL connection details
+# conn = psycopg2.connect(
+#     database="postgres",
+#     user="postgres",
+#     password="12345678",
+#     host="localhost",
+#     port="5432"
+# )
 
-# schema name
-schema_name= "public"
-# table to insert the data into
-table_name = "f_internet"
+# # schema name
+# schema_name= "public"
+# # table to insert the data into
+# table_name = "f_internet"
 
 
 
