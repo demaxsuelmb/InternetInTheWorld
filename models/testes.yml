@@ -5,4 +5,4 @@ models:
     columns:
       - name: region
         tests:
-          - not_null
+          - unique
