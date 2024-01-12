@@ -1,7 +1,7 @@
 select 
   int.Entity as country
   ,int.Code	as country_code
-  ,int.Year	
+  ,int.Year	as ano
   ,int.Cellular_Subscription as cellulars
   ,int.Internet_Users___	as internet_users
   ,int.No__of_Internet_Users as no_internet_users
