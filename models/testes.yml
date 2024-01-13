@@ -1,8 +1,0 @@
-version: 2
-
-models:
-  - name: top_five_regions
-    columns:
-      - name: region
-        tests:
-          - unique
