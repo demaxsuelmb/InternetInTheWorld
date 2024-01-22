@@ -28,7 +28,6 @@ Briefly describe the project, its objectives, and scope.
   - dbt [Documentation](https://www.getdbt.com/product/what-is-dbt)
   - VS Code [Documentation](https://code.visualstudio.com/docs)
   - Excel [Documentation](https://support.microsoft.com/en-us/excel)
-  - Power BI [Documentation](https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overvi)
   - Tableau [Documentation](https://www.tableau.com/products/public)
   - Flousrish [Documentation](https://flourish.studio/)
   - ChatGPT [Documentation](https://openai.com/blog/chatgpt)
@@ -45,7 +44,7 @@ Briefly describe the project, its objectives, and scope.
 
 - **To-Do List:**
   - [x] Understanding the challenge
-  - [ ] Create a enviroment
+  - [x] Create a enviroment
   - [ ] Data Collection
   - [ ] Data Cleaning
   - [ ] Exploratory Data Analysis (EDA)
@@ -73,16 +72,6 @@ Briefly describe the project, its objectives, and scope.
   - [view1.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/view1.sql)
   - [view2.sql](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/sql/view2.sql)
 
-- **PowerQuery Scripts:**
-  - [powerQuery1.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery1.pq)
-  - [powerQuery2.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery2.pq)
-  - [powerQuery3.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery3.pq)
-  - [powerQuery4.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/powerQuery4.pq)
-  - [_last_refrash.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/_last_refresh_.pq)
-  - [dfd.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/.pq)
-  - [ssss.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/.pq)
-  - [ffff.pq](https://github.com/demaxsuelmb/turnkey_challenge/blob/main/etl/powerQuery/Dimensions/.pq)
-
 
 ## Data Processing and Analysis
 
@@ -94,8 +83,7 @@ Briefly describe the project, its objectives, and scope.
 ## Visualizations
 
 - **Dashboard:**
-  - Descriptive (Required) [Power BI](link)
-  - Exploratiry (Plus) [Tableau](link)
+  - Exploratiry  [Tableau](link)
   - Storytelling (Plus) [Flourish](link)
 
 ## Documentation
